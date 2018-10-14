@@ -1,2 +1,4 @@
 # data-analysis-note
-데이터 분석 공부내용 정리
+
+* 시각화
+  * [Count 시각화](https://github.com/yahwang/data-analysis-note/tree/master/visualization/count_graph.ipynb)
