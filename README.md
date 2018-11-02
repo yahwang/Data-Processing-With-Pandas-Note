@@ -9,4 +9,4 @@
 - 시각화
   - [명목(범주형) 변수 Count 시각화](https://github.com/yahwang/data-analysis-note/tree/master/visualization/count_graph.ipynb)
 - 모델링
-  - [One-Hot_Encoding & dummy variable](https://github.com/yahwang/data-analysis-note/tree/master/one_hot&dummy.ipynb)
+  - [One-Hot-Encoding & dummy variable](https://github.com/yahwang/data-analysis-note/tree/master/one_hot&dummy.ipynb)
