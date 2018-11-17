@@ -5,7 +5,7 @@
   - [데이터 중복 다루기 Unique & duplicated](https://github.com/yahwang/data-analysis-note/tree/master/duplicated.ipynb)
   - [데이터 결측치(NA) 값 처리 방법](https://github.com/yahwang/data-analysis-note/tree/master/null_value.ipynb)
   - Value 전처리 방법
-    - [일반적인 함수를 통한 전처리 (+ apply, grouby+transform, 문자열, ... )](https://github.com/yahwang/data-analysis-note/tree/master/preprocessing/general_preprocess.ipynb)
+    - [일반적인 함수를 통한 전처리 (+ apply, grouby+transform, ... )](https://github.com/yahwang/data-analysis-note/tree/master/preprocessing/general_preprocess.ipynb)
     - [문자열(object) 전처리](https://github.com/yahwang/data-analysis-note/tree/master/preprocessing/object_preprocess.ipynb)
     - 시계열(datetime) 전처리
       - [시계열 기본 타입과 함수 (datetime, timedelta, pd.date_range](https://github.com/yahwang/data-analysis-note/tree/master/preprocessing/time_default.ipynb)
