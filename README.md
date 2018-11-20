@@ -4,7 +4,7 @@
   - [data slicing ( loc, iloc, xs )](https://github.com/yahwang/data-analysis-note/tree/master/data_slicing.ipynb)  
   - [데이터 중복 다루기 Unique & duplicated](https://github.com/yahwang/data-analysis-note/tree/master/duplicated.ipynb)
   - [데이터 결측치(NA) 값 처리 방법](https://github.com/yahwang/data-analysis-note/tree/master/null_value.ipynb)
-    - [누락된 날짜 확인하는 방법](https://github.com/yahwang/data-analysis-note/tree/master/find_nodate.ipynb)
+    - [누락된 날짜 확인하는 방법(추가하는 법)](https://github.com/yahwang/data-analysis-note/tree/master/find_nodate.ipynb)
   - Value 전처리 방법
     - [일반적인 함수를 통한 전처리 (+ apply, grouby+transform, ... )](https://github.com/yahwang/data-analysis-note/tree/master/preprocessing/general_preprocess.ipynb)
     - [문자열(object) 전처리](https://github.com/yahwang/data-analysis-note/tree/master/preprocessing/object_preprocess.ipynb)
