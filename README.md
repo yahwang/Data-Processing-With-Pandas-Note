@@ -13,7 +13,7 @@
       - [시계열 기본 타입과 함수 (datetime, timedelta, pd.date_range, ...)](https://github.com/yahwang/data-analysis-note/tree/master/preprocessing/time_default.ipynb)
       - [시계열 데이터 프레임 활용 ( + shift)](https://github.com/yahwang/data-analysis-note/tree/master/preprocessing/time_preprocess.ipynb)
   - [Query - 조건(row 단위, 그룹 단위)으로 데이터 검색 (+ .query : 효율적인 함수)](https://github.com/yahwang/data-analysis-note/tree/master/query.ipynb)
-  - [pivot_table - 그룹별(groupby) 계산을 간편하게 (+ crosstab)](https://github.com/yahwang/data-analysis-note/tree/master/pivottable&crosstab.ipynb)  
+  - [pivot_table - 두 개의 그룹 기준(Index와 Column)으로 계산 (+ crosstab)](https://github.com/yahwang/data-analysis-note/tree/master/pivottable&crosstab.ipynb)  
 - 시각화
   - [명목(범주형) 변수 Count 시각화](https://github.com/yahwang/data-analysis-note/tree/master/visualization/count_graph.ipynb)
   - [Boxplot](https://github.com/yahwang/data-analysis-note/tree/master/visualization/boxplot.ipynb)
