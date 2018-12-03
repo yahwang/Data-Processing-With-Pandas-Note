@@ -1,6 +1,6 @@
 # data-analysis-note
 - 기초
-  - 타입
+  - 타입 (astype, ...)
 - EDA
   - [data slicing ( loc, iloc, xs )](https://github.com/yahwang/data-analysis-note/tree/master/data_slicing.ipynb)  
   - [데이터 중복 다루기 Unique & duplicated](https://github.com/yahwang/data-analysis-note/tree/master/duplicated.ipynb)
