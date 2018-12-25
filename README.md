@@ -9,12 +9,12 @@
   - [데이터 합치기 concat & merge](https://github.com/yahwang/data-analysis-note/tree/master/concat&merge.ipynb)
   - Value 전처리 방법
     - [일반적인 함수를 통한 전처리 (+ apply, map, ... )](https://github.com/yahwang/data-analysis-note/tree/master/preprocessing/general_preprocess.ipynb)
-    - [groupby 함수를 통한 전처리 (+ agg, transform, ... )](https://github.com/yahwang/data-analysis-note/tree/master/preprocessing/group_preprocess.ipynb)
+    - [groupby 함수를 통한 전처리 (+ agg, transform, filter... )](https://github.com/yahwang/data-analysis-note/tree/master/preprocessing/group_preprocess.ipynb)
     - [문자열(object) 전처리](https://github.com/yahwang/data-analysis-note/tree/master/preprocessing/object_preprocess.ipynb)
     - 시계열(datetime) 전처리
       - [시계열 기본 타입과 함수 (datetime, timedelta, pd.date_range, ...)](https://github.com/yahwang/data-analysis-note/tree/master/preprocessing/time_default.ipynb)
       - [시계열 데이터 프레임 활용 ( + shift)](https://github.com/yahwang/data-analysis-note/tree/master/preprocessing/time_preprocess.ipynb)
-  - [Query - 조건(row 단위, 그룹 단위)으로 데이터 검색 (+ .query : 효율적인 함수)](https://github.com/yahwang/data-analysis-note/tree/master/query.ipynb)
+  - [Query - 조건(row, 그룹 단위)으로 데이터 검색 (+ query, filter)](https://github.com/yahwang/data-analysis-note/tree/master/query.ipynb)
   - [pivot_table - 두 개의 그룹 기준(Index와 Column)으로 계산 (+ crosstab)](https://github.com/yahwang/data-analysis-note/tree/master/pivottable&crosstab.ipynb)  
 - 시각화
   - [명목(범주형) 변수 Count 시각화](https://github.com/yahwang/data-analysis-note/tree/master/visualization/count_graph.ipynb)
