@@ -8,7 +8,8 @@
     - [누락된 날짜 확인하는 방법(추가하는 법) - 날짜가 중복되지 않는 경우](https://github.com/yahwang/data-analysis-note/tree/master/find_nodate.ipynb)
   - [데이터 합치기 concat & merge](https://github.com/yahwang/data-analysis-note/tree/master/concat&merge.ipynb)
   - Value 전처리 방법
-    - [일반적인 함수를 통한 전처리 (+ apply, grouby+transform, ... )](https://github.com/yahwang/data-analysis-note/tree/master/preprocessing/general_preprocess.ipynb)
+    - [일반적인 함수를 통한 전처리 (+ apply, map, ... )](https://github.com/yahwang/data-analysis-note/tree/master/preprocessing/general_preprocess.ipynb)
+    - [groupby 함수를 통한 전처리 (+ agg, transform, ... )](https://github.com/yahwang/data-analysis-note/tree/master/preprocessing/group_preprocess.ipynb)
     - [문자열(object) 전처리](https://github.com/yahwang/data-analysis-note/tree/master/preprocessing/object_preprocess.ipynb)
     - 시계열(datetime) 전처리
       - [시계열 기본 타입과 함수 (datetime, timedelta, pd.date_range, ...)](https://github.com/yahwang/data-analysis-note/tree/master/preprocessing/time_default.ipynb)
