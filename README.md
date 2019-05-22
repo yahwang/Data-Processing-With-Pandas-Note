@@ -1,4 +1,4 @@
-# data-analysis-note
+# Data-Processing-Note (with Pandas)
 - [기초](https://github.com/yahwang/data-analysis-note/tree/master/basic.ipynb)
   - 타입 (+ astype)
 - EDA
