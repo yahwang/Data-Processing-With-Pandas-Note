@@ -20,7 +20,7 @@
   - [pivot_table - 두 개의 그룹 기준(Index와 Column)으로 계산 (+ crosstab)](https://github.com/yahwang/Data-Processing-Note/tree/master/pivottable&crosstab.ipynb)  
 
 - Tips
-  -[Make your Pandas apply functions faster using Parallel Processing](https://towardsdatascience.com/make-your-own-super-pandas-using-multiproc-1c04f41944a1)
+  - [Make your Pandas apply functions faster using Parallel Processing](https://towardsdatascience.com/make-your-own-super-pandas-using-multiproc-1c04f41944a1)
 
 - 시각화
   - [명목(범주형) 변수 Count 시각화](https://github.com/yahwang/Data-Processing-Note/tree/master/visualization/count_graph.ipynb)
