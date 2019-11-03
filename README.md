@@ -15,7 +15,7 @@
 
 ### 일반 데이터
 
-- [데이터 중복 다루기 Unique & duplicated](https://github.com/yahwang/Data-Processing-Note/tree/master/duplicated.ipynb)
+- [데이터 중복 다루기 Unique & duplicated](https://github.com/yahwang/Data-Processing-Note/tree/master/unique&duplicated.ipynb)
 
 - [데이터 결측치(NA) 값 처리 방법](https://github.com/yahwang/Data-Processing-Note/tree/master/null_value.ipynb)
 
