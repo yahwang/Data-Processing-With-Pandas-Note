@@ -2,7 +2,7 @@
 
 ## 기본 사용법
 
-- [데이터 확인 ( + data type )](https://github.com/yahwang/Data-Processing-Note/tree/master/data_check.ipynb)
+- [데이터 확인 ( + data type )](data_check.ipynb)
 
 - [Data Slicing ( loc, iloc, xs )](https://github.com/yahwang/Data-Processing-Note/tree/master/data_slicing.ipynb)  
 
@@ -19,7 +19,7 @@
 
 - [데이터 결측치(NA) 값 처리 방법](https://github.com/yahwang/Data-Processing-Note/tree/master/null_value.ipynb)
 
-- [일반적인 함수를 통한 전처리 (+ apply, map, ... )](https://github.com/yahwang/Data-Processing-Note/tree/master/preprocessing/general_preprocess.ipynb)
+- [일반적인 함수를 통한 전처리 (+ apply, map, ... )](preprocessing/general_preprocess.ipynb)
 
 - [groupby 함수를 통한 전처리 (+ agg, transform, filter... )](https://github.com/yahwang/Data-Processing-Note/tree/master/preprocessing/group_preprocess.ipynb)
 
