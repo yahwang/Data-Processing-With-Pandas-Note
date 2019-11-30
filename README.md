@@ -2,6 +2,8 @@
 
 ## 기본 사용법
 
+- [데이터 로딩](data_load.ipynb)
+
 - [데이터 확인](data_check.ipynb)
 
 - [데이터 타입 정보+변환](data_type.ipynb)
