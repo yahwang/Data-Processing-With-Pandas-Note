@@ -8,11 +8,11 @@
 
 - [데이터 타입 정보+변환](data_type.ipynb)
 
+- [컬럼 다루기 (추가, 삭제, ...)](treat_column.ipynb)
+
 - [Data Slicing ( loc, iloc, xs )](data_slicing.ipynb)  
 
 - [조건(row, 그룹 단위)으로 데이터 검색 (+ query, filter 함수)]( query.ipynb)
-
-- [추가 컬럼 만들기](add_column.ipynb)
 
 - [데이터 합치기 concat & merge]( concat_and_merge.ipynb)
 
