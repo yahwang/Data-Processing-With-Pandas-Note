@@ -29,9 +29,13 @@
 
 - [groupby 함수를 통한 전처리 (+ agg, transform, filter... )]( preprocessing/group_preprocess.ipynb)
 
+- [pivot_table - 두 개의 그룹 기준(Index와 Column)으로 계산 (+ crosstab)]( pivottable&crosstab.ipynb)  
+
+### 문자열 데이터
+
 - [문자열(object) 전처리]( preprocessing/object_preprocess.ipynb)
 
-- [pivot_table - 두 개의 그룹 기준(Index와 Column)으로 계산 (+ crosstab)]( pivottable&crosstab.ipynb)  
+- [정규식(Regular Expression) 처리]( preprocessing/regular_expression.ipynb)
 
 ### 시계열 데이터
 
