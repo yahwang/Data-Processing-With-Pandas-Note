@@ -19,6 +19,12 @@
 
 ## 데이터 전처리
 
+### 코드 최적화
+
+- [최적화 Tip 간단 정리](optimization/tip_summary.ipynb)
+
+- [단순 연산 처리 최적화](optimization/simple_calculus.ipynb)
+
 ### 일반 데이터
 
 - [데이터 중복 다루기 Unique & duplicated]( preprocessing/unique&duplicated.ipynb)
