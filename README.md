@@ -33,6 +33,8 @@
 
 - [데이터 결측치(NA) 값 처리 방법]( preprocessing/null_value.ipynb)
 
+- [데이터 mapping ( 치환 ) 방법]( preprocessing/data_mapping.ipynb)
+
 - [일반적인 함수를 통한 전처리 (+ apply, map, ... )](preprocessing/general_preprocess.ipynb)
 
 - [groupby 함수를 통한 전처리 (+ agg, transform, filter... )]( preprocessing/group_preprocess.ipynb)
@@ -49,9 +51,9 @@
 
 - [시계열 기본 타입과 함수 (datetime, timedelta, pd.date_range, ...)]( preprocessing/time_default.ipynb)
 
-- [시계열 데이터 프레임 활용 ( + shift)]( preprocessing/time_preprocess.ipynb)
+- [시계열 데이터 컬럼 활용 ( + shift)]( preprocessing/time_preprocess.ipynb)
 
-- [누락된 날짜 확인하는 방법(추가하는 법) - 날짜가 중복되지 않는 경우]( find_nodate.ipynb)
+- [누락된 날짜 확인하는 방법(추가하는 법) - 날짜가 중복되지 않는 경우]( preprocessing/find_nodate.ipynb)
 
 ### 시각화
 
