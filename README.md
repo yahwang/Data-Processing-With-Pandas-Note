@@ -10,7 +10,7 @@
 
 - [컬럼 다루기 (추가, 삭제, ...)](treat_column.ipynb)
 
-- [Data Slicing ( loc, iloc, xs )](data_slicing.ipynb)  
+- [Data Slicing ( loc, at, xs )](data_slicing.ipynb)  
 
 - [조건(row, 그룹 단위)으로 데이터 검색 (+ query, filter 함수)]( query.ipynb)
 
