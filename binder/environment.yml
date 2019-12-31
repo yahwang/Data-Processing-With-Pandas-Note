@@ -1,0 +1,11 @@
+channels:
+- conda-forge
+dependencies:
+- python=3.7
+- jupyterlab=1.2
+- nodejs=10
+- pandas=0.25
+- numpy=1.17
+- seaborn=0.9
+- pip:
+    - nbresuse==0.3.2

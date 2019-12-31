@@ -1,8 +1,10 @@
 # Data-Processing-Note (with Pandas)
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/yahwang/Data-Processing-With-Pandas-Note/master/?urlpath=lab)
+
 ## 기본 사용법
 
-- [데이터 로딩](data_load.ipynb)
+- [데이터 로딩](data_load.ipynb) 
 
 - [데이터 확인](data_check.ipynb)
 
