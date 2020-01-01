@@ -14,9 +14,9 @@
 
 - [컬럼 다루기 (추가, 삭제, ...)](treat_column.ipynb)
 
-- [Data Slicing ( loc, at, xs )](data_slicing.ipynb)  
+- [데이터 Slicing ( loc, at, xs )](data_slicing.ipynb)  
 
-- [조건(row, 그룹 단위)으로 데이터 검색 (+ query)]( query.ipynb)
+- [데이터 Filtering ( Query ) ]( query.ipynb)
 
 - [데이터 합치기 concat & merge]( concat_and_merge.ipynb)
 
