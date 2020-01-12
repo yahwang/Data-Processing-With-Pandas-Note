@@ -18,6 +18,8 @@
 
 - [데이터 Filtering ( Query ) ]( query.ipynb)
 
+- [데이터 정렬 (순위)]( sort_data.ipynb)
+
 - [데이터 합치기 concat & merge]( concat_and_merge.ipynb)
 
 
