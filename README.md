@@ -41,9 +41,9 @@
 
 - [데이터 mapping ( 치환 ) 방법]( preprocessing/data_mapping.ipynb)
 
-- [일반적인 함수를 통한 전처리 (+ apply, map, ... )](preprocessing/general_preprocess.ipynb)
+- [일반적인 함수를 통한 전처리 ( apply, map, ... )](preprocessing/general_preprocess.ipynb)
 
-- [groupby 함수를 통한 전처리 (+ agg, transform, filter... )]( preprocessing/group_preprocess.ipynb)
+- [groupby 함수를 통한 전처리 (+ WINDOW FUNCTION 기능 )]( preprocessing/group_preprocess.ipynb)
 
 - [pivot_table - 두 개의 그룹 기준(Index와 Column)으로 계산 (+ crosstab)]( pivottable&crosstab.ipynb)  
 
