@@ -31,7 +31,7 @@
 
 - [단순 연산 처리 최적화](optimization/simple_calculus.ipynb)
 
-- [pandas 쓸 때 유용한 numpy 함수 정리](optimization/numpy_functions.ipynb)
+- [유용한 numpy 함수 정리](optimization/numpy_functions.ipynb)
 
 ### 일반 데이터
 
