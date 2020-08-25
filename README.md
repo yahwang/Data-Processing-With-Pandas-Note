@@ -56,7 +56,7 @@
 
 ### 시계열 데이터
 
-- [시계열 기본 타입과 함수 (datetime, timedelta, pd.date_range, ...)]( preprocessing/time_default.ipynb)
+- [시계열 기본 타입과 함수 (datetime, timedelta, pd.date_range, ...)]( processing/time_default.ipynb)
 
 - [시계열 데이터 컬럼 활용 ( + shift)]( processing/time_preprocess.ipynb)
 
